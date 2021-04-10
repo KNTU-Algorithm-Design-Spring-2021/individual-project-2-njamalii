@@ -1,6 +1,7 @@
 import time
 import json
 
+
 import redis
 
 redis_connection = redis.Redis('localhost')
